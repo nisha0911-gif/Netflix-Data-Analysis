@@ -67,7 +67,6 @@ This project presents an interactive **Netflix Content Analysis Dashboard** buil
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshots below.
 
 ![Netflix Dashboard Overview](Images/dashboard_overview.png)
 
